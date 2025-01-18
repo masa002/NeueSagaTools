@@ -41,3 +41,12 @@ ALL: 500
 4. ALLの場合は、全員同じ数で問題ないです。
 
 ---
+
+## デプロイについて
+[Koyeb](https://app.koyeb.com)を使用して簡単にデプロイできます。
+Builderは、Dockerを使用してください。Zennには、Dockerfile locationのOverrideをオンと書かれていますが、オンにしないでください。
+それ以外は、そのままでデプロイできるはずです。
+
+## デプロイ資料
+https://zenn.dev/amano_spica/articles/24c5f288cf9595
+
